@@ -1,0 +1,9 @@
+[package]
+name = "dot_voxart"
+edition = "2018"
+version = "0.1.0"
+authors = ["Hans W. Uhlig <huhlig@gmail.com>"]
+
+[dependencies]
+byteorder = "1"
+nom = "6"
